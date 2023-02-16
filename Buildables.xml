@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<buildables>
+  <buildable Result="Merchant Rug" RequiredBlueprints="Brinestalk Scrap:3;BaseBeadBracelet:3" EnergyCost="100"/>
+</buildables>
